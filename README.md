@@ -1,4 +1,9 @@
 # Tkinter-rgb-effect
+
+https://imgur.com/buTXEks
+
+
+
 This script creates a window with a button in the center. The button changes color every second,
 following the order of the colors of the rainbow (red, orange, yellow, green, blue, purple).
 
